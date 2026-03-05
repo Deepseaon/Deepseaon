@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Deepseaon!&fontSize=70)
+<img width="1939" height="309" alt="121312" src="https://github.com/user-attachments/assets/bfd8859b-e928-47ac-9c93-7dd41e821eaf" />
+
 
 ### 👨‍💻 About :
 - Cybersecurity Industry
