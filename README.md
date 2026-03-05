@@ -8,13 +8,6 @@
 
 ---
 
-### 📊 My GitHub Status :
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepseaon&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19" />
-</p>
-
----
-
 ### 🛠️ Tech Stack :
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white">  <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/c%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
